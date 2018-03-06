@@ -1,0 +1,3 @@
+[submodule "RATDecoders"]
+	path = RATDecoders
+	url = https://github.com/kevthehermit/RATDecoders
